@@ -1,10 +1,10 @@
-git initGAsdsadhgdfshadfbzcx 
+git init
 git config --global user.name "Chaitanya"
-git config --global user.emaiBgSDgsDl "rangafmw@gmail.com"
-SDgvSDgadsgsd
+git config --global user.email "rangafmw@gmail.com"
+
 git config --list
-sgsdhasdgSdg
-touch prasadsgsdgsdgsGSD
+
+touch prasad
 ls
 git status
 git add prasad
@@ -14,17 +14,17 @@ git status
 git log
 git show cid
 ---------------------------
-touch file2 file3 file4 vasFasfasfile5
+touch file2 file3 file4 file5
 ls
-git statusAgADSGASDG
-git add file2 file3 sDGsdgSDGfile4 file5
+git status
+git add file2 file3 file4 file5
 or
 git add .
 or
 git add *
 or
 git add -A
-git statusgSDXG
+git status
 git commit -m "label"
 
 
@@ -60,7 +60,7 @@ git pull --rebase
 git push
 git pull --rebase
 git push
-dvdGFDSGDS
+
 mkdir name-dir
 mkdir prasad-dir
 cd prasad-dir
