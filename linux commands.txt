@@ -1,0 +1,21 @@
+Some Useful commands:
+
+ls  : list of all directories and sub-directories.
+Pwd : Prints working directory.
+top : display cpu and memory utilization
+df - h : disk free space in human readable form.
+du - k: disk utilization
+free -m: How much ram is available.
+Ps -ef | grep weblogic  display all running process.
+uptime
+cat <filename>
+tail -50f  <file name>
+wc -1 <filename> counts words and lines of textfile.
+touch <filename> create blank file 
+cp <oldfile> <newfile>
+keytool -v list  check the list ssls
+kill -9 to kill the process.
+SCP: for secure copy.
+vmstat: display virtual memory statices.
+
+mstsc.exe >>>>> to REMOTE DESKTOP CONNECTION
