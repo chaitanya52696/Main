@@ -37,6 +37,7 @@ git reset --hard cid (it will delete files and log's)
 
 git clone https://github.com/swathichowdaryc/Repo1.git
 ls
+ls -ltr
 cd Repo1
 touch file1
 git status
